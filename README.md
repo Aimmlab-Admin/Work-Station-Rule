@@ -1,7 +1,7 @@
 # Server使用規範
 表單網址: https://reurl.cc/8q3EQj
-1. 借用server前, 先確定表單有無登記
-2. 無法臨時自行借用，須先登記 (會被Shutdown)
+1. 借用server前, 請先確定表單有無登記
+2. 無法臨時自行借用，請勿占用GPU資源，須先登記 (會被Shutdown)
 3. 所有資料放在自己的家目錄(/mnt/data0/user)
 4. 一個帳號不得超過 100 G (SSD)
 
